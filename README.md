@@ -1,4 +1,4 @@
-# [Article](https://vk.com/@-202627164-the-technical-task-6)
+# [Article](https://www.canva.com/design/DAEb7Xnen0E/Xg2i7YHF_7stTP81W4cK0Q/edit?category=tACFasDnyEQ)
 
 ## build
 ```bash
